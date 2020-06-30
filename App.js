@@ -155,7 +155,7 @@ export default class App extends Component {
         return (
           <>
             <View>
-              <Text style={styles.headline}> List of Animals </Text>
+              <Text style={styles.headline}> Full List of Animals </Text>
               {animals}
               <Button
                 title="Main Page"
